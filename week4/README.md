@@ -5,5 +5,5 @@
 ### cd week4
 ### dart run bin/main.dart (any 4 names lowercased)
 
-### Example:
+### Example
 ### dart run bin/main.dart ahmed michael shoaib william   
